@@ -1,0 +1,23 @@
+# Baladna Sales & Target Achievement Dashboard (Power BI)
+
+An interactive **Power BI** dashboard analyzing Baladna sales quantities, distribution performance, and target vs. dispatch achievement across days, sales groups, product categories, and individual SKUs.
+
+## 🎥 Video Walkthrough
+Watch the demo video here: [Watch Video](https://youtu.be/M9QGSkK_Dgo)
+
+---
+
+## 📌 Dashboard Sections & Key Features
+
+### 1. Sales & Distribution Overview (`sales analysis1`)
+- **KPIs with Last-Week Comparison:** Total Sale Quantity (`35M`), Total Distribution Quantity (`60K`), and Real vs. Target (`23K`).
+- **Visuals:** Daily sales quantity trend (`01`–`30`), sales quantity by `Sales Group`, `Category`, and `Products`, paired with a day filter slicer.
+
+### 2. Target & Dispatch Performance (`sales analysis2`)
+- **KPIs:** Target Achievement (`56.66%`) and Average Target vs. Dispatch (`1.70`).
+- **Visuals:** Average Target vs. Dispatch by product and item, `Sum of Target Remaining` by product, and a detailed SKU table (`Sum of Sale Quantity`, `Sum of Target Remaining`, `Sum of Target Vs Dispatch`).
+
+---
+
+## 🛠️ Tools & Techniques
+- **Power BI Desktop** (Power Query Data Transformation, Data Modeling, DAX Measures, Interactive Slicers & Tooltips)
